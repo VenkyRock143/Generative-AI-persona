@@ -24,8 +24,7 @@ Generate a detailed, research-style user persona from any Reddit user's **public
 python main.py https://www.reddit.com/user/kojied/
 🛠️ Setup Instructions
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/reddit-persona-generator.git
-cd reddit-persona-generat
+git clone https://github.com/your-username/Generative-AI-persona.git
 
 2️⃣ Install Dependencies
 pip install -r requirements.txt
